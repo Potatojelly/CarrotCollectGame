@@ -24,7 +24,7 @@ The game begins with a screen full of randomly placed carrots and bugs. The play
 To install and run the Carrot Collector Game locally, follow these steps:
 
 1. Clone the repository:
-git clone https://github.com/your_username_/CarrotCollectGame.git
+git clone https://github.com/Potatojelly/CarrotCollectGame.git
 
 2. Open the `index.html` file in your web browser.
 
