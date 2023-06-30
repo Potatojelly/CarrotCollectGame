@@ -19,6 +19,8 @@ The game begins with a screen full of randomly placed carrots and bugs. The play
 
 ![ezgif com-video-to-gif](https://github.com/Potatojelly/game/assets/108857524/f108010b-8124-4e4a-a4a0-51ec9602ece0)
 
+website:https://gleaming-narwhal-e67e00.netlify.app
+
 ## Installation <a name="installation"></a>
 
 To install and run the Carrot Collector Game locally, follow these steps:
@@ -35,11 +37,9 @@ To play the game, open the `index.html` file if you have cloned the repository t
 ## Technology stack <a name="tech-stack"></a>
 The Carrot Collector game is built with the following technology stack:
 
-HTML5: Provides the structure of the game elements.
-
+HTML: Provides the structure of the game elements.
 CSS3: Used for styling and layout of the game interface.
-
-JavaScript (ES6): Adds interactivity to the game, including tracking user interactions, game logic, and more.
+JavaScript: Adds interactivity to the game, including tracking user interactions, game logic, and more.
 
 ## Reflection <a name="reflection"></a>
 
