@@ -5,7 +5,7 @@ Carrot Collect is a simple and fun HTML, CSS, and JavaScript-based game. The obj
 ## Table of Contents
 
 1. [Gameplay](#gameplay)
-2. [Screen Shots](#screenshot)
+2. [Screen Shots/Demo](#screenshot)
 3. [Installation](#installation)
 4. [Usage](#usage)
 5. [Technology Stack](#tech-stack)
@@ -19,7 +19,7 @@ The game begins with a screen full of randomly placed carrots and bugs. The play
 
 ![ezgif com-video-to-gif](https://github.com/Potatojelly/game/assets/108857524/f108010b-8124-4e4a-a4a0-51ec9602ece0)
 
-website:https://gleaming-narwhal-e67e00.netlify.app
+Demo:https://gleaming-narwhal-e67e00.netlify.app
 
 ## Installation <a name="installation"></a>
 
